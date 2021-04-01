@@ -10,5 +10,3 @@ This initial commit extracts the shape key data for the humanoid 'head' vertex g
 Refactor vertex groups and remove redundancies.
 
 The head is currently _duplicated_. It needs to be separated and the shape keys for the body recalculated. Unless you're Zaphod Beeblebrox.
-
-# THIS IS A FIRST COMMIT: USE AT YOUR OWN RISK
